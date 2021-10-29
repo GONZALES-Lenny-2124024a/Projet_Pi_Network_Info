@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style-contact.css">
     <title>Contact</title>
 </head>
 <body>
@@ -17,7 +18,32 @@
             <li class="link"><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
-
+    <div class="contact">
+        <h1 class="title">Nous contacter</h1>
+        <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mattis risus, ac imperdiet urna. Praesent accumsan, nulla sodales pellentesque tincidunt, nibh urna egestas libero, eu congue lorem dui eget lacus. Aliquam maximus purus sit amet ullamcorper dignissim. Integer sed fringilla nunc, gravida pharetra nisi. Phasellus finibus, ipsum in sollicitudin dictum, purus mauris ornare turpis, id molestie dolor risus id ipsum. Vivamus pharetra justo eu tincidunt varius. Nulla posuere ullamcorper porttitor.
+        </p>        
+        <form action="mailto:matttias.gervilliers@etu.univ-amu.fr" class="formulaire">
+            <fieldset>
+                <legend>Contact:</legend>
+                <div class="form-block">
+                    <label for="name">Votre nom et prénom</label><br />
+                    <input type="text" id="name" name="name" required placeholder="John Dupont">
+                </div>
+                <div class="form-block">
+                    <label for="mail">Votre email</label><br />
+                    <input type="email" id="mail" name="mail" required placeholder="johndupont@exemple.com">
+                </div>
+                <div class="form-block">
+                    <label for="avis">Votre avis sur notre site</label><br />
+                    <textarea name="avis" rows="10" cols="50" placeholder="Votre avis sur notre site nous intéresse !"></textarea>
+                </div>
+                <div class="form-block">
+                    <input type="submit" name="submit" class="submit-btn">
+                </div>
+            </fieldset>
+        </form>
+    </div>
     
 </body>
 </html>
