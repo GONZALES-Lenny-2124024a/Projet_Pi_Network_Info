@@ -3,7 +3,7 @@ body{
     padding: 0;
     display: flex;
     flex-direction: column;
-    background-image: url(../image/bg2.jpg);
+    background-image: url(PI/image/bg2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
