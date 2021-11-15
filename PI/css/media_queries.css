@@ -1,0 +1,23 @@
+
+@media (min-width: 740px) {
+    
+    .header ul {
+        background-color: #4f3075;
+      }
+    .header li {
+      background: #4f3075;
+      float: left;
+    }
+    .header li a {
+      padding: 20px 30px;
+    }
+    .header .menu {
+      clear: none;
+      display: flex;
+      justify-content: center;
+      max-height: none;
+    }
+    .header .menu-icon {
+      display: none;
+    }
+  }
