@@ -28,6 +28,7 @@ body{
 	font-family: "Gill Sans", sans-serif;
 	font-weight: bold;
 	text-align: center;
+	margin:0 3em 0 3em;
 }
 
 .formulaire {
@@ -93,4 +94,15 @@ legend {
 .button:hover{
     background: #fcb44b;
     border: solid 0.1em #fcb44b;
+}
+
+@media (min-width:740px)
+{
+	.title{
+		font-size:2.2em;
+	}
+	.paragraph{
+		margin:0 7em 0 7em;
+		font-size:1.5em;
+	}
 }
