@@ -1,5 +1,6 @@
 @media (min-width: 740px) {
 
+    /* header */
     .header ul {
         background-color: #4f3075;
     }
@@ -21,6 +22,7 @@
         display: none;
     }
 
+    /* footer */
     .footer{
         display:flex;
         flex-wrap:wrap;
@@ -33,6 +35,7 @@
         margin:0;
     }
 
+    /* body */
     .texte h2{
         font-size:2.2em;
     }
@@ -49,21 +52,25 @@
         margin:0 7em 0 7em;
     }
 
-    .premiere-partie {
+    .section {
         flex-wrap: nowrap;
         flex-direction: row;
     }
 
-    .premiere-partie img {
+    .section img {
         margin:1em 0 1em 2em;
-        height:35em;   
+        height:35em;
     }
-    .premiere-partie p{
+
+    .section p{
         margin-right:2em;
         margin-left: 3em;
         height:auto;
         font-size:1.3em;
+        align-self:center;
     }
+
+    /* File : Contact */
     fieldset {
         width: 30em;
     }

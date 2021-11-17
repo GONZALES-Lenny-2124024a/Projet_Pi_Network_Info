@@ -83,12 +83,7 @@ legend {
     color:#fcb44b;
 }
 
-.premiere-partie img{
-    margin:1em 0 1em 0;
-    height:25em;
-}
-
-.premiere-partie {
+.section {
     text-align: center;
     background-color: #FFF;
     display: flex;
@@ -98,6 +93,22 @@ legend {
     border-bottom: solid 0.2em;
     border-color:#fcb44b;
     height: auto;
+}
+
+.section img{
+    margin:1em 0 1em 0;
+    height:25em;
+    width:25em;
+    border: dashed #fcb44b;
+
+}
+
+.section p{
+    margin: 1em 3em;
+}
+
+.section1{
+    margin-bottom:23em;
 }
 
 /* File : a-propos.html */
