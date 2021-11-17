@@ -98,13 +98,12 @@ legend {
 .section img{
     margin:1em 0 1em 0;
     height:25em;
-    width:25em;
     border: dashed #fcb44b;
-
 }
 
 .section p{
     margin: 1em 3em;
+    font-size:1.25em;
 }
 
 .section1{
