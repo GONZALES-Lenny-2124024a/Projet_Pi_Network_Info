@@ -100,6 +100,31 @@ legend {
     height: auto;
 }
 
+/* File : a-propos.html */
+.Presentation-Dev {
+    height: auto;
+    padding-top: 3.6em;
+    padding-bottom:2em;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-shadow: 1px 1px 5px #FFF;
+}
+
+.section-title{
+    color: #fcb44b;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 1);
+}
+
+.Presentation-Dev-List li{
+    display :flex;
+    justify-content: justify;
+    font-size:1.25em;
+    line-height:2em;
+}
+
 /* Buttons */
 
 .button {
@@ -172,7 +197,7 @@ legend {
 .header .menu {
     clear: both;
     max-height: 0;
-    transition: max-height .2s ease-out;
+    transition: .2s ease-out;
 }
 
 /* menu icon */
@@ -222,7 +247,7 @@ legend {
 }
 
 .header .menu-btn:checked ~ .menu {
-    max-height: 240px;
+    max-height: 20em;
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {

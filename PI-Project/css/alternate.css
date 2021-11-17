@@ -9,23 +9,21 @@ body {
 	filter: brightness(.8) contrast(1.2);
 	font-family: Roboto, 'Roboto', 'Gill Sans', sans-serif;
 }
-
 .texte {
 	color: #FFF;
 	text-shadow: 1px 1px 5px #000;
 	text-align: justify;
 }
-
 .premiere-partie {
 	color: #FFF;
 	background-color: #000;
 	text-align: justify;
 }
-
-.formulaire {
-	text-align: center;
+.Presentation-Dev{
+	color: #FFF;
+	text-shadow: 1px 1px 5px #000;
+	text-align: justify;
 }
-
 /* 
 
 Changements :

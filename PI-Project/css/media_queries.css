@@ -1,68 +1,70 @@
 @media (min-width: 740px) {
+
     .header ul {
-      background-color: #4f3075;
-  }
-  .header li {
-      background: #4f3075;
-      float: left;
-  }
-  .header li a {
-      padding: 20px 30px;
-  }
-  .header .menu {
-      clear: none;
-      display: flex;
-      justify-content: space-evenly;
-      max-height: none;
-  }
+        background-color: #4f3075;
+    }
+    .header li {
+        background: #4f3075;
+        float: left;
+    }
+    .header li a {
+        padding: 20px 30px;
+    }
+    .header .menu {
+        clear: none;
+        display: flex;
+        justify-content: space-evenly;
+        max-height: none;
+    }
 
-  .header .menu-icon {
-      display: none;
-  }
+    .header .menu-icon {
+        display: none;
+    }
 
-  .footer{
-      display:flex;
-      flex-wrap:wrap;
-      flex-direction:row;
-      justify-content: space-evenly;
-      text-align:center;
-  }
+    .footer{
+        display:flex;
+        flex-wrap:wrap;
+        flex-direction:row;
+        justify-content: space-evenly;
+        text-align:center;
+    }
 
-  .footer-plan{
-      margin:0;
-  }
-  .texte h2{
-    font-size:2.2em;
-}
+    .footer-plan{
+        margin:0;
+    }
 
-.texte p{
-    font-size: 1.5em;
-}
+    .texte h2{
+        font-size:2.2em;
+    }
 
-.section-text {
-    margin:0 7em 0 7em;
-}
+    .texte p{
+        font-size: 1.5em;
+    }
 
-.paragraph{
-    margin:0 7em 0 7em;
-}
+    .section-text {
+        margin:0 7em 0 7em;
+    }
 
-.premiere-partie {
-    flex-wrap: nowrap;
-    flex-direction: row;
-}
+    .paragraph{
+        margin:0 7em 0 7em;
+    }
 
-.premiere-partie img {
-    margin:1em 0 1em 2em;
-    height:35em;   
-}
-.premiere-partie p{
-    margin-right:2em;
-    margin-left: 3em;
-    height:auto;
-    font-size:1.3em;
-}
-fieldset {
-    width: 30em;
-}
+    .premiere-partie {
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+
+    .premiere-partie img {
+        margin:1em 0 1em 2em;
+        height:35em;   
+    }
+    .premiere-partie p{
+        margin-right:2em;
+        margin-left: 3em;
+        height:auto;
+        font-size:1.3em;
+    }
+    fieldset {
+        width: 30em;
+    }
 }
