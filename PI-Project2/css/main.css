@@ -107,7 +107,7 @@ legend {
 }
 
 .section1{
-    margin-bottom:10em;
+    margin-bottom:5em;
 }
 
 /* File : a-propos.html */
@@ -125,7 +125,7 @@ legend {
 
 .section-title{
     color: #fcb44b;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 1);
+    text-shadow: 1px 1px 5px #FFF;
 }
 
 .Presentation-Dev-List li{

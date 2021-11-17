@@ -1,4 +1,4 @@
-function switchTheme (){
+function darkTheme (){
         var head = document.getElementsByTagName('HEAD')[0]; 
         var link = document.createElement('link');
         link.rel = 'stylesheet'; 
