@@ -41,6 +41,7 @@ body{
 
 .section-text  {
     margin: 0 3em;
+    font-size:1.25em;
 }
 
 .actu-section {
@@ -104,6 +105,10 @@ legend {
     border-radius: 1.35em;
     padding: 3px 6px;
     text-align: justify;
+}
+
+.section-text a{
+    font-size:0.7em;
 }
 
 /* File : page-pourquoi.html */
