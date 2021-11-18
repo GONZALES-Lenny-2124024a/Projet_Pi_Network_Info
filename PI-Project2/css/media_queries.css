@@ -83,8 +83,7 @@
         flex-wrap: nowrap;
         flex-direction: row;
     }
-
-     .actu-section {
+    .actu-section {
         flex-direction: row;
         flex-wrap: nowrap;
     }
