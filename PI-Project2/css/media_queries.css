@@ -52,11 +52,6 @@
         margin:0 7em 0 7em;
     }
 
-    .section {
-        flex-wrap: nowrap;
-        flex-direction: row;
-    }
-
     img {
         margin:1em 0 1em 2em;
         height:35em;
@@ -84,4 +79,13 @@
     fieldset {
         width: 30em;
     }
+}
+
+@media (min-width: 1280px) {
+
+    .section {
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+
 }
