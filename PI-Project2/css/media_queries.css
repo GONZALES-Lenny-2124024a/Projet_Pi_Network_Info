@@ -65,10 +65,6 @@
         align-self:center;
     }
 
-    .actu-section {
-        flex-direction: row;
-        flex-wrap: nowrap;
-    }
     .actu-section img {
         margin-left: 5em;
         height: 35em;
@@ -88,4 +84,8 @@
         flex-direction: row;
     }
 
+     .actu-section {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
 }
