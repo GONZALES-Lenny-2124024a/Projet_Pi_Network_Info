@@ -36,6 +36,16 @@ body {
 	text-align: center;
 }
 
+.link {
+	color: #FFF;
+}
+.link:hover {
+	color: #FFF;
+}
+.actu-section p {
+	background-color: #000;
+	text-align: justify;
+}
 /* 
 
 Changements :

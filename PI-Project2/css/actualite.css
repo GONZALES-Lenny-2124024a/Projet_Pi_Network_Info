@@ -1,6 +1,6 @@
 body{
     font-family: "Gill Sans", sans-serif;
-    background-color: #4b3961;
+    background-color: #46276d;
     margin: 0;
     padding: 0;
     display: block;
@@ -40,7 +40,7 @@ body{
     font-size: 1em;
     word-spacing: 0.2em;
     padding: 0.5em 1em;
-    background-color: #4b3961;
+    background-color: #46276d;
     color: white;
     cursor: pointer;
     transition: all 0.3s linear;

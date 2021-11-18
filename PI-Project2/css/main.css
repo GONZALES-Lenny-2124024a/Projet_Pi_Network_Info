@@ -1,6 +1,6 @@
 body{
     font-family: "Gill Sans", sans-serif;
-    background-color: #4b3961;
+    background-color: #46276d;
     margin: 0;
     padding: 0;
     display: block;
@@ -43,7 +43,32 @@ body{
     margin: 0 3em;
 }
 
+.actu-section {
+    text-align: center;
+    display: flex;
+    margin-top: 2.5em;
+}
+
+.actu-section p {
+    background-color: #FFF;
+    border: solid 0.2em #fcb44b;
+    padding: 1.5em;
+}
+
+.actu-section img {
+    margin-left: 5em;
+}
+
+
 /* File : contact.html */
+.link {
+    text-decoration: none;
+    color: #000;
+}
+.link:hover {
+    color: #46276d;
+    text-decoration: underline;
+}
 
 .formulaire {
     display: flex;
@@ -63,12 +88,12 @@ input, textarea {
 }
 
 fieldset {
-    background-color: #4f3075;
+    background-color: #46276d;
     border: solid 0.35em #fcb44b;
     border-radius: 2em;
 }
 legend {
-    background-color: #4f3075;
+    background-color: #46276d;
     border: solid 0.2em #fcb44b;
     border-radius: 1.35em;
     padding: 3px 6px;
@@ -95,7 +120,7 @@ legend {
     height: auto;
 }
 
-.section img{
+img{
     margin:1em 0 1em 0;
     height:25em;
     border: dashed #fcb44b;
@@ -151,7 +176,7 @@ legend {
 
 .button-foot{
     padding: 0.5em 1em;
-    background-color: #4b3961;
+    background-color: #46276d;
 }
 
 .button-foot:hover{
@@ -184,7 +209,7 @@ legend {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #583c7a;
+    background-color: #46276d;
 }
 
 .header li a {
@@ -216,7 +241,7 @@ legend {
     cursor: pointer;
     display: flex;
     justify-content: center;
-    background: #4b3961;
+    background: #46276d;
     padding: 28px 20px;
     position: relative;
     user-select: none;
@@ -280,7 +305,7 @@ legend {
 /* Footer */
 
 .footer{
-    background-color:#583c7a;
+    background-color:#46276d;
     color:white;
     text-align:center;
     height:auto;

@@ -5,5 +5,10 @@ function darkTheme (){
         link.id = 'dark-theme';
         link.type = 'text/css';
         link.href = 'css/alternate.css'; 
-        head.appendChild(link); 
+        head.appendChild(link);
+}
+
+function lightTheme () {
+        sheet = document.getElementById("dark-theme")
+        sheet.parentNode.removeChild(sheet)
 }
