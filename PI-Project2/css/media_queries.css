@@ -57,7 +57,7 @@
         flex-direction: row;
     }
 
-    .section img {
+    img {
         margin:1em 0 1em 2em;
         height:35em;
     }
@@ -68,6 +68,16 @@
         height:auto;
         font-size:1.3em;
         align-self:center;
+    }
+
+    .actu-section {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    .actu-section img {
+        margin-left: 5em;
+        height: 35em;
+        width: auto;
     }
 
     /* File : Contact */

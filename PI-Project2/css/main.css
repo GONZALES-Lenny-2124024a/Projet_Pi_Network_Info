@@ -46,7 +46,10 @@ body{
 .actu-section {
     text-align: center;
     display: flex;
+    flex-direction: column;
     margin-top: 2.5em;
+    margin-right: auto;
+    flex-wrap: wrap;
 }
 
 .actu-section p {
@@ -56,7 +59,10 @@ body{
 }
 
 .actu-section img {
-    margin-left: 5em;
+    height: auto;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 2.5em;
 }
 
 
