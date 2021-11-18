@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link id="theme" rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/media_queries.css">
+    <link id="dark-theme" rel="stylesheet" type="text/css" href="css/alternate.css" disabled>
     <script src="js/switch-theme.js" ></script>
+    <script src="js/check-preferred-theme.js" defer></script>
     <title>Pi Network Info | Accueil</title>
 </head>
 <body>
@@ -36,7 +38,7 @@
         </div>
     </introduction>
     <footer class="footer">
-        <button onclick="darkTheme()" class="button-foot button btn-switch">Dark theme</button>
+        <button onclick="switchTheme()" class="button-foot button btn-switch">Changer de thème</button>
         <div class="footer-presentation">
             <h2>Pi Network Info</h2>
             <p>Ce site présente la future cryptomonnaie se nommant Pi Network<br /> Lien de leur site :</p>
@@ -46,9 +48,9 @@
             <h2>Catégories</h2>
             <ul class="footer-menu">
                 <li><a href="accueil.html">Accueil</a></li>
-                <li><a href="pourquoi.html">Pourquoi</a></li>
+                <li><a href="page-pourquoi.html">Pourquoi</a></li>
                 <li><a href="actualite.html">Actus</a></li>
-                <li><a href="#">Avenir</a></li>
+                <li><a href="a-propos.html">A propos</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
