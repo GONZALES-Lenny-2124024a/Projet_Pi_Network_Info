@@ -25,6 +25,10 @@ body{
     text-align: center;
 }
 
+.home-text {
+    width: 50%;
+}
+
 .texte{
     display: flex;
     align-items: center;
@@ -70,8 +74,9 @@ body{
 /* File : contact.html */
 .link {
     text-decoration: none;
-    color: #000;
+    color: #fcb44b;
 }
+
 .link:hover {
     color: #46276d;
     text-decoration: underline;
@@ -105,10 +110,6 @@ legend {
     border-radius: 1.35em;
     padding: 3px 6px;
     text-align: justify;
-}
-
-.section-text a{
-    font-size:0.7em;
 }
 
 /* File : page-pourquoi.html */
@@ -340,6 +341,18 @@ i {
     padding-bottom:2em;
     margin-top:2.5em;
     border-top: solid 0.2em #fcb44b;
+}
+
+.btns-foot {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.link-btn {
+    text-decoration: none;
+    color: #FFF;
 }
 
 .footer-menu p{

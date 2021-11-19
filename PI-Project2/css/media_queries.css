@@ -23,13 +23,6 @@
     }
 
     /* footer */
-    .footer{
-        display:flex;
-        flex-wrap:wrap;
-        flex-direction:row;
-        justify-content: space-evenly;
-        text-align:center;
-    }
 
     .footer-plan{
         margin:0;
@@ -86,5 +79,13 @@
     .actu-section {
         flex-direction: row;
         flex-wrap: nowrap;
+    }
+    
+    .footer{
+        display:flex;
+        flex-wrap:wrap;
+        flex-direction:row;
+        justify-content: space-evenly;
+        text-align:center;
     }
 }
