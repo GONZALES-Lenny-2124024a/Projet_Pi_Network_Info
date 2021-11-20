@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Pi, Pi Network, PiNetwork, pinetwork, pi network, cryptomonnaie, gratuit, mobile, minepi">
+    <meta name="description" content="Page d'information concernant le projet Pi Network. Projet développé par un groupe de docteurs avec un PhD sur l'université de Stanford.">
+    <meta name="author" content="Mattias Gervilliers, Lenny Gonzales, Victor Bouveret, Mathieu Sauva">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/media_queries.css">
+    <link id="dark-theme" rel="stylesheet" type="text/css" href="css/alternate.css" disabled>
     <script src="js/switch-theme.js" ></script>
+    <script src="js/check-preferred-theme.js" defer></script>
     <title>Pi Network Info | Contact</title>
+    <link rel="icon" type="image/x-icon" href="image/favicon.png">
 </head>
 <body>
     <header class="header">
@@ -21,10 +27,10 @@
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </header>
-    <div class="introduction texte">
+    <section class="introduction texte">
         <h2 class="section-title">Nous contacter</h2>
-        <p class="paragraph ">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mattis risus, ac imperdiet urna. Praesent accumsan, nulla sodales pellentesque tincidunt, nibh urna egestas libero, eu congue lorem dui eget lacus. Aliquam maximus purus sit amet ullamcorper dignissim. Integer sed fringilla nunc, gravida pharetra nisi. Phasellus finibus, ipsum in sollicitudin dictum, purus mauris ornare turpis, id molestie dolor risus id ipsum. Vivamus pharetra justo eu tincidunt varius. Nulla posuere ullamcorper porttitor.
+        <p class="section-text ">
+            Une question à nous poser ? Écrivez-nous un petit mail, nos équipes se feront un plaisir de vous répondre. Mais avant pensez à consulter la page FAQ de Pi Network pour voir si la réponse à votre question n’est pas déjà présente !<br /><a class="link" href="https://minepi.com/faq" target="blank">Pi Network FAQ</a>
         </p>
         <form enctype="text/plain" method="post" action="mailto:watgytb@gmail.com" class="formulaire" target="_blank">
             <fieldset>
@@ -42,13 +48,16 @@
                     <textarea name="avis" id="avis" rows="10" cols="30" placeholder="Votre avis sur notre site nous intéresse !"></textarea>
                 </div>
                 <div class="form-block">
-                    <input type="submit" name="submit" value="Envoyer" class="button submit-btn">
+                    <input type="submit" class="button submit-btn">
                 </div>
             </fieldset>
         </form>
-    </div>
+    </section>
     <footer class="footer">
-        <button onclick="switchTheme()" class="button-foot button btn-switch">Dark theme</button>
+        <div class="btns-foot">
+            <button onclick="switchTheme()" class="button-foot button btn-switch">Changer de thème</button>
+            <button class="button-foot button btn-switch"><a href="en/contact.html" class="link-btn">Switch language</a></button>
+        </div>
         <div class="footer-presentation">
             <h2>Pi Network Info</h2>
             <p>Ce site présente la future cryptomonnaie se nommant Pi Network<br /> Lien de leur site :</p>
@@ -58,9 +67,9 @@
             <h2>Catégories</h2>
             <ul class="footer-menu">
                 <li><a href="accueil.html">Accueil</a></li>
-                <li><a href="pourquoi.html">Pourquoi</a></li>
+                <li><a href="page-pourquoi.html">Pourquoi</a></li>
                 <li><a href="actualite.html">Actus</a></li>
-                <li><a href="#">Avenir</a></li>
+                <li><a href="a-propos.html">A propos</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>

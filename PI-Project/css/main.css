@@ -1,6 +1,6 @@
 body{
     font-family: "Gill Sans", sans-serif;
-    background-color: #4b3961;
+    background-color: #46276d;
     margin: 0;
     padding: 0;
     display: block;
@@ -25,6 +25,10 @@ body{
     text-align: center;
 }
 
+.home-text {
+    width: 50%;
+}
+
 .texte{
     display: flex;
     align-items: center;
@@ -41,9 +45,42 @@ body{
 
 .section-text  {
     margin: 0 3em;
+    font-size:1.25em;
 }
 
+.actu-section {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2.5em;
+    margin-right: auto;
+    flex-wrap: wrap;
+}
+
+.actu-section p {
+    background-color: #FFF;
+    border: solid 0.2em #fcb44b;
+    padding: 1.5em;
+}
+
+.actu-section img {
+    height: auto;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 2.5em;
+}
+
+
 /* File : contact.html */
+.link {
+    text-decoration: none;
+    color: #fcb44b;
+}
+
+.link:hover {
+    color: #46276d;
+    text-decoration: underline;
+}
 
 .formulaire {
     display: flex;
@@ -63,12 +100,12 @@ input, textarea {
 }
 
 fieldset {
-    background-color: #4f3075;
+    background-color: #46276d;
     border: solid 0.35em #fcb44b;
     border-radius: 2em;
 }
 legend {
-    background-color: #4f3075;
+    background-color: #46276d;
     border: solid 0.2em #fcb44b;
     border-radius: 1.35em;
     padding: 3px 6px;
@@ -95,7 +132,7 @@ legend {
     height: auto;
 }
 
-.section img{
+img{
     margin:1em 0 1em 0;
     height:25em;
     border: dashed #fcb44b;
@@ -107,7 +144,7 @@ legend {
 }
 
 .section1{
-    margin-bottom:23em;
+    margin-bottom:5em;
 }
 
 /* File : a-propos.html */
@@ -125,7 +162,7 @@ legend {
 
 .section-title{
     color: #fcb44b;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 1);
+    text-shadow: 1px 1px 5px #FFF;
 }
 
 .Presentation-Dev-List li{
@@ -151,7 +188,7 @@ legend {
 
 .button-foot{
     padding: 0.5em 1em;
-    background-color: #4b3961;
+    background-color: #46276d;
 }
 
 .button-foot:hover{
@@ -171,6 +208,22 @@ legend {
     align-self: center;
 }
 
+#retournerenhaut {
+    background: #46276d;
+    border-radius: 3em;
+    border: solid #fcb44b;
+    outline: none;
+    margin: 0 3em 3em 0;
+    position: fixed;
+    right: 10px;
+    bottom: -1em;
+}
+
+i {
+    color: #fff;
+}
+
+
 /* Navbar */
 
 .header {
@@ -184,7 +237,7 @@ legend {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #583c7a;
+    background-color: #46276d;
 }
 
 .header li a {
@@ -216,7 +269,7 @@ legend {
     cursor: pointer;
     display: flex;
     justify-content: center;
-    background: #4b3961;
+    background: #46276d;
     padding: 28px 20px;
     position: relative;
     user-select: none;
@@ -280,7 +333,7 @@ legend {
 /* Footer */
 
 .footer{
-    background-color:#583c7a;
+    background-color:#46276d;
     color:white;
     text-align:center;
     height:auto;
@@ -288,6 +341,18 @@ legend {
     padding-bottom:2em;
     margin-top:2.5em;
     border-top: solid 0.2em #fcb44b;
+}
+
+.btns-foot {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.link-btn {
+    text-decoration: none;
+    color: #FFF;
 }
 
 .footer-menu p{

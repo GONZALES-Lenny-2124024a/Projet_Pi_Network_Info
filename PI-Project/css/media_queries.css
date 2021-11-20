@@ -2,10 +2,10 @@
 
     /* header */
     .header ul {
-        background-color: #4f3075;
+        background-color: #46276d;
     }
     .header li {
-        background: #4f3075;
+        background: #46276d;
         float: left;
     }
     .header li a {
@@ -23,13 +23,6 @@
     }
 
     /* footer */
-    .footer{
-        display:flex;
-        flex-wrap:wrap;
-        flex-direction:row;
-        justify-content: space-evenly;
-        text-align:center;
-    }
 
     .footer-plan{
         margin:0;
@@ -52,12 +45,7 @@
         margin:0 7em 0 7em;
     }
 
-    .section {
-        flex-wrap: nowrap;
-        flex-direction: row;
-    }
-
-    .section img {
+    img {
         margin:1em 0 1em 2em;
         height:35em;
     }
@@ -70,8 +58,34 @@
         align-self:center;
     }
 
+    .actu-section img {
+        margin-left: 5em;
+        height: 35em;
+        width: auto;
+    }
+
     /* File : Contact */
     fieldset {
         width: 30em;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    .section {
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+    .actu-section {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    
+    .footer{
+        display:flex;
+        flex-wrap:wrap;
+        flex-direction:row;
+        justify-content: space-evenly;
+        text-align:center;
     }
 }

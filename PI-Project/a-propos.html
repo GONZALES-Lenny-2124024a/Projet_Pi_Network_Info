@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Pi, Pi Network, PiNetwork, pinetwork, pi network, cryptomonnaie, gratuit, mobile, minepi">
+    <meta name="description" content="Page d'information concernant le projet Pi Network. Projet développé par un groupe de docteurs avec un PhD sur l'université de Stanford.">
+    <meta name="author" content="Mattias Gervilliers, Lenny Gonzales, Victor Bouveret, Mathieu Sauva">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/media_queries.css">
+    <link id="dark-theme" rel="stylesheet" type="text/css" href="css/alternate.css" disabled>
     <script src="js/switch-theme.js" ></script>
+    <script src="js/check-preferred-theme.js" defer></script>
     <title>Pi Network Info | A Propos</title>
+    <link rel="icon" type="image/x-icon" href="image/favicon.png">
 </head>
 <body>
     <header class="header">
@@ -21,10 +27,10 @@
           <li><a href="contact.html">Contact</a></li>
       </ul>
     </header>
-    <introduction class="introduction texte">
+    <section class="introduction texte">
         <h2 class="section-title">À propos de nous</h2>
         <p class="section-text">Nous sommes des étudiants de 1ère année au Bachelor Universitaire Technologique (BUT) en spécialité Informatique à l'Institut Universitaire Technologique (IUT) d'Aix-Marseille, site d'Aix-en-Provence.<br />Un projet nous a était donné visant à créer un site web sur l'un des sujets de notre choix. Donc, nous qui sommes stupéfait du projet révolutionnaire de "Pi Network" qu'est de "miner" de la cryptomonnaie par téléphone, nous avons pris comme sujet de ce site web, le "Pi Network".</p>
-    </introduction>
+    </section>
     <section class="Presentation-Dev">
         <h2 class="section-title">Les Développeurs</h2>
         <ul class="Presentation-Dev-List">
@@ -35,7 +41,10 @@
         </ul>
     </section>
     <footer class="footer">
-        <button onclick="switchTheme()" class="button-foot button btn-switch">Dark theme</button>
+        <div class="btns-foot">
+            <button onclick="switchTheme()" class="button-foot button btn-switch">Changer de thème</button>
+            <button class="button-foot button btn-switch"><a href="en/about.html" class="link-btn">Switch language</a></button>
+        </div>
         <div class="footer-presentation">
             <h2>Pi Network Info</h2>
             <p>Ce site présente la future cryptomonnaie se nommant Pi Network<br /> Lien de leur site :</p>
@@ -47,7 +56,7 @@
                 <li><a href="accueil.html">Accueil</a></li>
                 <li><a href="pourquoi.html">Pourquoi</a></li>
                 <li><a href="actualite.html">Actus</a></li>
-                <li><a href="#">Avenir</a></li>
+                <li><a href="a-propos.html">A propos</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
