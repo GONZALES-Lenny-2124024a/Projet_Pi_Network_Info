@@ -2,7 +2,7 @@
 
 ## Sommaire
 
- - [Les contributeurs](#Les-contributeurs)
+ - [Les contributeurs](#Les-contributeurs-👤)
 
 ## Les contributeurs 👤
 
