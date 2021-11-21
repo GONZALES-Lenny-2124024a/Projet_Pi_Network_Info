@@ -53,3 +53,9 @@ Pour créer notre site web, nous avons utilisé les langages de programmation su
 ## Standardisation du Code 🧾
 
 Notre site est construit de façon que chaque partie (texte, image, navbar, footer) de chaque page soit construit de la **même façon** pour ne pas surcharger les fichiers css et pour ne pas changer de norme à chaque page du site. De plus, ceci permet une **compréhension plus facile** sur la construction du site web.
+
+## Contact
+
+Pour de plus amples informations à propos du projet, vous pouvez nous contacter à l'adresse mail : lenny.gonzales@etu.univ-amu.fr
+
+Lien du projet : https://github.com/GonzalesLenny/Projet_Pi_Network_Info
