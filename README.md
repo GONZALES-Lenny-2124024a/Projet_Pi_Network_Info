@@ -1,5 +1,9 @@
 # Pi Network Info
 
+## Sommaire
+
+ - [Les contributeurs](#Les-contributeurs)
+
 ## Les contributeurs 👤
 
 Nous sommes des étudiants de 1ère année au Bachelor Universitaire Technologique (BUT) en spécialité Informatique à l'Institut Universitaire Technologique (IUT) d'Aix-Marseille, site d'Aix-en-Provence.
