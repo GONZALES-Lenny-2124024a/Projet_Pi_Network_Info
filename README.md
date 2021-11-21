@@ -1,11 +1,5 @@
 # Pi Network Info
 
-## Sommaire
-
- - [Les contributeurs](#Les-contributeurs-👤)
- - [Présentation du site web](#Présentation-du-site-web)
- - [Standardisation du code](#Standardisation-du-Code-🧾)
-
 ## Les contributeurs 👤
 
 Nous sommes des étudiants de 1ère année au Bachelor Universitaire Technologique (BUT) en spécialité Informatique à l'Institut Universitaire Technologique (IUT) d'Aix-Marseille, site d'Aix-en-Provence.
@@ -48,6 +42,13 @@ Notre site à la particularité d'avoir **deux thèmes**, un _sombre_ et un _cla
 ### 🇫🇷 🇬🇧 Changement de langue
 
 De plus, le visiteur peut aussi **changer de langue** puisque notre site peut-être soit en _français_ soit en _anglais_.
+
+## Langages de programmation utilisé
+Pour créer notre site web, nous avons utilisé les langages de programmation suivants :
+- HTML
+- CSS
+- JavaScript
+
 
 ## Standardisation du Code 🧾
 
