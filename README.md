@@ -61,4 +61,6 @@ Nous avons codé notre site de telle manière qu'il soit visible sur ordinateur,
 
 Pour de plus amples informations à propos du projet, vous pouvez nous contacter via GitHub ou soit à l'adresse mail : lenny.gonzales@etu.univ-amu.fr
 
+Voici le lien du site : https://hisokabluee.github.io/
+
 Lien du projet : https://github.com/GonzalesLenny/Projet_Pi_Network_Info
