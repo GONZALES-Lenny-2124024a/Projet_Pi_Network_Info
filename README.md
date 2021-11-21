@@ -12,8 +12,8 @@ Nous sommes des étudiants de 1ère année au Bachelor Universitaire Technologiq
 
 ## Présentation du site web
 
-Un projet nous a était donné visant à créer un site web sur l'un des sujets de notre choix. Donc, nous qui sommes stupéfait du projet révolutionnaire de "Pi Network" qui est de "miner" de la cryptomonnaie par téléphone, nous avons pris comme sujet de ce site web, le "Pi".
-Donc, notre site web intitulait "Pi Network Info" a pour butde donner des informations sur la future cryptomonnaie "Pi".
+Un projet nous a été donné visant à créer un site web sur l'un des sujets de notre choix. Donc, nous qui sommes stupéfait du projet révolutionnaire de "Pi Network" qui est de "miner" de la cryptomonnaie par téléphone, nous avons pris comme sujet de ce site web, le "Pi".
+Ainsi, notre site web intitulé "Pi Network Info" a pour but de donner des informations sur la future cryptomonnaie "Pi".
 
 ### 🏡 "Accueil"
  
@@ -21,7 +21,7 @@ La page d'**accueil** résume de façon générale ce qu'est le "Pi".
 
 ### ❓ "Pourquoi"
 
-La page "**Pourquoi**" du site web présente les raisons de télécharger l'application pour miner du "Pi", mais aussi les avantages qu'on peut avoir pour miner encore plus de "Pi".
+La page "**Pourquoi**" du site web présente les raisons de télécharger l'application pour miner du "Pi", mais aussi les avantages qu'on peut obtenir pour miner plus rapidement du "Pi".
 
 ### 📊 "Actus"
 
@@ -49,10 +49,13 @@ Pour créer notre site web, nous avons utilisé les langages de programmation su
 - CSS
 - JavaScript
 
-
 ## Standardisation du Code 🧾
 
-Notre site est construit de façon que chaque partie (texte, image, navbar, footer) de chaque page soit construit de la **même façon** pour ne pas surcharger les fichiers css et pour ne pas changer de norme à chaque page du site. De plus, ceci permet une **compréhension plus facile** sur la construction du site web.
+Notre site est construit de façon à ce que chaque partie (texte, image, navbar, footer) de chaque page soit construit de la **même façon** pour ne pas surcharger les fichiers css et pour ne pas changer de norme à chaque page du site. De plus, ceci permet une **compréhension plus facile** sur la construction du site web.
+
+## Responsive
+
+Nous avons codé notre site de telle manière qu'il soit visible sur ordinateur, tablette ou téléphone d'une façon adaptée à la taille de l'écran.
 
 ## Contact
 
