@@ -3,6 +3,8 @@
 ## Sommaire
 
  - [Les contributeurs](#Les-contributeurs-👤)
+ - [Présentation du site web](#Présentation-du-site-web)
+ - [Standardisation du code](#Standardisation-du-Code-🧾)
 
 ## Les contributeurs 👤
 
@@ -47,6 +49,6 @@ Notre site à la particularité d'avoir **deux thèmes**, un _sombre_ et un _cla
 
 De plus, le visiteur peut aussi **changer de langue** puisque notre site peut-être soit en _français_ soit en _anglais_.
 
-## Standardisation 🧾
+## Standardisation du Code 🧾
 
 Notre site est construit de façon que chaque partie (texte, image, navbar, footer) de chaque page soit construit de la **même façon** pour ne pas surcharger les fichiers css et pour ne pas changer de norme à chaque page du site. De plus, ceci permet une **compréhension plus facile** sur la construction du site web.
