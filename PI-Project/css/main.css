@@ -167,7 +167,7 @@ img{
 
 .Presentation-Dev-List li{
     display :flex;
-    justify-content: justify;
+    text-align: center;
     font-size:1.25em;
     line-height:2em;
 }
