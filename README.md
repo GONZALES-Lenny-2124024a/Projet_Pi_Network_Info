@@ -1,5 +1,7 @@
 # Pi Network Info
 
+![image](./Pi-Project/image/favicon.png)
+
 
 ## Les contributeurs 👤
 
@@ -12,8 +14,6 @@ ous sommes des étudiants de 1ère année au Bachelor Universitaire Technologiqu
 
 
 ## Présentation du site
-
-![Logo Pi Network Info](/Pi-Project/image/favicon.png)
 
 Un projet nous a était donné visant à créer un site web sur l'un des sujets de notre choix. Donc, nous qui sommes stupéfait du projet révolutionnaire de "Pi Network" qui est de "miner" de la cryptomonnaie par téléphone, nous avons pris comme sujet de ce site web, le "Pi".
 Donc, notre site web intitulait "Pi Network Info" a pour butde donner des informations sur la future cryptomonnaie "Pi".
@@ -42,3 +42,7 @@ La page "**Contact**" du site web contient un formulaire pour nous contacter à 
 
 Notre site à la particularité d'avoir **deux thèmes**, un _sombre_ et un _clair_. Donc, le visiteur pourra **changer de thème** en un simple clic.
 De plus, le visiteur peut aussi **changer de langue** puisque notre site peut-être soit en _français_ soit en _anglais_.
+
+## Standardisation
+
+Notre site est construit de façon que chaque partie (texte, image, navbar, footer) de chaque page soit construit de la **même façon** pour ne pas surcharger les fichiers css et pour ne pas changer de norme à chaque page du site. De plus, ceci permet une **compréhension plus facile** sur la construction du site web.
