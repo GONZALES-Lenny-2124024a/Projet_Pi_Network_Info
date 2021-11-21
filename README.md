@@ -1,48 +1,48 @@
 # Pi Network Info
 
-![image](./Pi-Project/image/favicon.png)
-
-
 ## Les contributeurs 👤
 
-ous sommes des étudiants de 1ère année au Bachelor Universitaire Technologique (BUT) en spécialité Informatique à l'Institut Universitaire Technologique (IUT) d'Aix-Marseille, site d'Aix-en-Provence.
+Nous sommes des étudiants de 1ère année au Bachelor Universitaire Technologique (BUT) en spécialité Informatique à l'Institut Universitaire Technologique (IUT) d'Aix-Marseille, site d'Aix-en-Provence.
 
-- BOUVERET Victor : BouveretV
-- GERVILLIERS Mattias : Hisokabluee
-- GONZALES Lenny : GonzalesLenny
-- SAUVA Mathieu : mathieuDUT
+- BOUVERET Victor : **BouveretV**
+- GERVILLIERS Mattias : **Hisokabluee**
+- GONZALES Lenny : **GonzalesLenny**
+- SAUVA Mathieu : **mathieuDUT**
 
 
-## Présentation du site
+## Présentation du site web
 
 Un projet nous a était donné visant à créer un site web sur l'un des sujets de notre choix. Donc, nous qui sommes stupéfait du projet révolutionnaire de "Pi Network" qui est de "miner" de la cryptomonnaie par téléphone, nous avons pris comme sujet de ce site web, le "Pi".
 Donc, notre site web intitulait "Pi Network Info" a pour butde donner des informations sur la future cryptomonnaie "Pi".
 
-### Page "Accueil" 🏡
+### 🏡 "Accueil"
  
-La page d'**accueil** résume de façon général ce qu'est le "Pi".
+La page d'**accueil** résume de façon générale ce qu'est le "Pi".
 
-### Page "Pourquoi" ❓
+### ❓ "Pourquoi"
 
 La page "**Pourquoi**" du site web présente les raisons de télécharger l'application pour miner du "Pi", mais aussi les avantages qu'on peut avoir pour miner encore plus de "Pi".
 
-### Page "Actus" 📊
+### 📊 "Actus"
 
 Sur la page "**Actus**", nous pouvons retrouver les actualités concernant l'avancement du projet et la future valeur du "Pi".
 
-### Page "A Propos" 👥
+### 👥 "A Propos"
 
 La page "**A Propos**" contient des informations à propos des contributeurs de notre site web.
 
-### Page "Contact" ✉️
+### ✉️ "Contact"
 
 La page "**Contact**" du site web contient un formulaire pour nous contacter à propos de la cryptomonnaie.
 
-### Changement de thème (⬛️ ⬜️) et de langue (🇫🇷 🇬🇧)
+### ⬛️ ⬜️ Changement de thème
 
 Notre site à la particularité d'avoir **deux thèmes**, un _sombre_ et un _clair_. Donc, le visiteur pourra **changer de thème** en un simple clic.
+
+### 🇫🇷 🇬🇧 Changement de langue
+
 De plus, le visiteur peut aussi **changer de langue** puisque notre site peut-être soit en _français_ soit en _anglais_.
 
-## Standardisation
+## Standardisation 🧾
 
 Notre site est construit de façon que chaque partie (texte, image, navbar, footer) de chaque page soit construit de la **même façon** pour ne pas surcharger les fichiers css et pour ne pas changer de norme à chaque page du site. De plus, ceci permet une **compréhension plus facile** sur la construction du site web.
