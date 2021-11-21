@@ -13,7 +13,7 @@ ous sommes des étudiants de 1ère année au Bachelor Universitaire Technologiqu
 
 ## Présentation du site
 
-![Logo Pi Network Info](/pi-project/image/favicon.png)
+![Logo Pi Network Info](/Pi-Project/image/favicon.png)
 
 Un projet nous a était donné visant à créer un site web sur l'un des sujets de notre choix. Donc, nous qui sommes stupéfait du projet révolutionnaire de "Pi Network" qui est de "miner" de la cryptomonnaie par téléphone, nous avons pris comme sujet de ce site web, le "Pi".
 Donc, notre site web intitulait "Pi Network Info" a pour butde donner des informations sur la future cryptomonnaie "Pi".
