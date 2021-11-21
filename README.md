@@ -56,6 +56,6 @@ Notre site est construit de façon que chaque partie (texte, image, navbar, foot
 
 ## Contact
 
-Pour de plus amples informations à propos du projet, vous pouvez nous contacter à l'adresse mail : lenny.gonzales@etu.univ-amu.fr
+Pour de plus amples informations à propos du projet, vous pouvez nous contacter via GitHub ou soit à l'adresse mail : lenny.gonzales@etu.univ-amu.fr
 
 Lien du projet : https://github.com/GonzalesLenny/Projet_Pi_Network_Info
